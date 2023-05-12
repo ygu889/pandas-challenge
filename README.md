@@ -1,1 +1,2 @@
 # pandas-challenge
+For this module 4- I used the PyCitySchoolStarter and the functions and exercise that were taught in class. I had tutor help for Use the code provided to select all of the school types, the code was not provided in the PySchoolStarter. I had tried on my own and used school_data_complete.groupby(["school_name"])["type"].unique(), this returns an array and i was not able to convert the formatting properly as such additional code is required.  The analysis and conculsion i draw from the result created are in the pycityschools juptyer notebook. 
